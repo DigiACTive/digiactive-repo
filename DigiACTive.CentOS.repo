@@ -1,0 +1,7 @@
+[DigiACTive]
+name=DigiACTive
+baseurl=http://digiactive.com.au/digiactive-repo/centos/$releasever/
+enabled=1
+gpgcheck=1
+gpgkey=http://digiactive.com.au/digiactive-repo/RPM-GPG-KEY.asc
+
